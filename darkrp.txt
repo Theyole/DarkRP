@@ -1,6 +1,6 @@
 "darkrp"
 {
-    "base"          "sandbox"
+    "base"          "newnexton"
     "title"         "DarkRP"
     "version"       "2.7.0"
     "category"      "rp"
